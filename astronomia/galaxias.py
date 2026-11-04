@@ -1,1 +1,1 @@
-galaxias = ["Vía Láctea", "Andrómeda"]
+galaxias = ["Vía Láctea", "Andrómeda", "Triángulo", "Sombrero", "Remolino"]
