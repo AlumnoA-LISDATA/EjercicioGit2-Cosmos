@@ -1,1 +1,1 @@
-aliens = ["Zorg", "Kree"]
+aliens = ["Zorg", "Kree", "Xenomorfo", "Ewok", "Klingon"]
